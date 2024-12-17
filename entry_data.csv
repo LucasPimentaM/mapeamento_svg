@@ -1,0 +1,61 @@
+Entry data:,,
+
+Vacuum pressure =, -500.0000000000, mbar
+Membrane area =, 12.9600000000, m²
+Membrane thickness =, 100.0000000000, microns
+Membrane porosity =, 85.0000000000%,
+Pore diameter =, 0.3200000000 ,microns
+Height of the feed channel =, 2.0000000000, mm
+Height of the coolant channel =, 2.0000000000, mm
+Feed and coolant channels width =, 0.4000000000, m
+Number of channels =, 6,
+Channel spacer porosity =, 79.0000000000%,
+Gap spacer porosity =, 84.0000000000%,
+Air gap thickness =, 0.8000000000, mm
+Condensing wall thickness =, 80.0000000000, microns
+Thermal conductivity of the membrane material =, 0.3500000000, W/mK
+Thermal conductivity of the spacer material =, 0.2700000000, W/mK
+Thermal conductivity of the condensing wall =, 0.3500000000, W/mK
+
+Flow rate out of the regulating tank =, 1101.6000000000, kg/h
+Reposition flow rate into the regulating tank =, 0.0000000000, kg/h
+Reposition water salinity at the entrance of the regulating tank =, 17.6746000000, wt%
+Reposition water salinity at the entrance of the regulating tank =, 200.0002256483, g/L
+Reposition water temperature at the entrance of the regulating tank =, 25.0000000000, °C
+Discharge flow rate out of the regulating tank =, 0.0000000000, kg/h
+Maximum mass of the water contained in the regulating tank =, 150.0000000000, kg
+Initial temperature of the regulating tank =, 25.0000000000, °C
+Initial salinity of the regulating tank =, 17.6746000000, wt%
+
+Heating heat exchanger area =, 1.0000000000, m²
+Heating heat exchanger global heat transfer coefficient =, 816.7000000000, W/m²K
+Set temperature at the outlet of the cold side =, 288000.0000000000, °C
+
+Cooling heat exchanger flow rate =, 2000.0000000000, kg/h
+Temperature at the entrance of the cold side =, 30.0000000000, °C
+Cooling heat exchanger area =, 1.3400000000, m²
+Cooling heat exchanger global heat transfer coefficient =, 3168.0000000000, W/m²K
+
+Cool tower mass flow rate =, 3999.9999960000, kg/h
+Temperature at the entrance of the cold side =, 30.0000000000, °C
+Cool tower area =, 1.0000000000, m²
+Cool tower global heat transfer coefficient =, 595.0000000000, W/m²K
+
+Mass flow rate at the cold side of the WHRU (line mass flow rate) =, 3600.0000000000, kg/h
+WHRU mass flow rate =, 475.2000000000, kg/h
+Temperature at the entrance of the hot side =, 60.0000000000, °C
+WHRU area =, 1.0000000000, m²
+WHRU global heat transfer coefficient =, 3168.0000000000, W/m²K
+
+correction factor for the eletric power =, 1.0000000000
+Global heat loss coefficient of the resistance bank =, 10.8700000000, W/°C
+Mass of the resistance bank =, 300.0000000000, kg
+Set temperature at the resistance bank =, 342000.0000000000, °C
+
+Mass flow rate at the outlet of the turbine =, 475.2000000000, kg/h
+effectiveness of the regenerator =, 90.0000000000, %
+compressor isentropic efficiency =, 90.0000000000, %
+turbine isentropic efficiency =, 77.0000000000, %
+heat load =, 45.4000000000, kW
+pressure ratio =, 7.0000000000, Pa/Pa
+inlet temperature =, 0.0000000000, °C
